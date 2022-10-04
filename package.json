@@ -1,0 +1,17 @@
+{
+  "name": "oyelabs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1.js",
+  "dependencies": {
+    "express": "^4.17.3",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node 1.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
